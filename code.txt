@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+ <head>
+  <link rel="stylesheet" type="text/css" href="1.css">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+     <!-- The above 3 meta tags must come first in the head; any other head content must come after these tags -->
+  <title>Corporate Training</title>
+
+  <!-- Bootstrap -->
+  <link href="css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css" />
+  <link href="https://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
+  <script src="https://use.fontawesome.com/866f0a8d8a.js"></script>
+  <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+  <link rel="stylesheet" href="css/animate.css" />
+ </head>
+ <body>
+  <div class="container">
+    <div class="row">
+  <div class="col-md-8 well">
+    <h1 class="  well">Corporate training</h1>
+     <p>Staying updated is the key to thrive in this competitive age. Our training solutions are tangible and make your teams proactive in the work plan and its execution. The highly professional team of Multisoft has successfully involved and drives success in a variety of different corporate cultures. We seamlessly determine your training requirements, mode of delivery and infrastructure required.</p>
+   
+
+   <!--customized corporate-->
+    <div class="col-md-4">
+      <img src="C:\bootstrap\download icons\img1.png" class="img-circle" width="105px" height="105px" style="margin-left:35px; ">
+     <!-- <p class="circle"></p>-->
+     <h4 style="padding: 5px;margin-left:-12px;">Customized Corporate</h4>
+<p style="padding-top:0px;margin-left:-37px; text-align: center;" >All the training details can be customized covering the duration, schedule, course material and most importantly an expert trainer</p>
+
+
+
+<!--below icons-->
+<img src="C:\bootstrap\download icons\img1.png" class="img-circle" width="105px" height="105px" style="margin-left:35px; ">
+     <!-- <p class="circle"></p>-->
+     <h4 style="padding: 5px;margin-left:-12px;">Customized Corporate</h4>
+<p style="padding-top:0px;margin-left:-37px; text-align: center;" >All the training details can be customized covering the duration, schedule, course material and most importantly an expert trainer</p>
+    </div>
+
+
+      
+    <!-- another div-->
+    <div class="col-md-4 block text-center">
+      <!--<p class="circle"></p>-->
+      <img src="C:\bootstrap\download icons\one to one.jpg" class="img-circle" width="105px" height="105px">
+      <h4 style="padding: 5px;margin-left:-12px;">One-on-One Training</h4>
+<p style="padding-top:0px;margin-left:-37px; text-align: center;" >Multisoft system One-on-One Training system permits 100% customization of training program and plan for individual aspirants. Key benefits are:</p>
+<!-- below icons-->
+<img src="C:\bootstrap\download icons\img1.png" class="img-circle" width="105px" height="105px" style="margin-left:35px; ">
+     <!-- <p class="circle"></p>-->
+     <h4 style="padding: 5px;margin-left:-12px;">Customized Corporate</h4>
+<p style="padding-top:0px;margin-left:-37px; text-align: center;" >All the training details can be customized covering the duration, schedule, course material and most importantly an expert trainer</p>
+    </div>
+
+
+
+    <div class="col-md-4 block text-center">
+     <!-- <p class="circle"></p>-->
+     <img src="C:\bootstrap\download icons\training.jpg" class="img-circle" width="115px" height="105px">
+     <h4 style="padding: 5px;margin-left:-12px;">On Demand Training</h4>
+<p style="padding-top:0px;margin-left:-4px; text-align: center;" >On Demand Training are provided by the skilled consultants from the relevant industries, focusing on the needs of the market. Training program provides:</p>
+<!-- below iucons-->
+<img src="C:\bootstrap\download icons\img1.png" class="img-circle" width="105px" height="105px" style="margin-left:35px; ">
+     <!-- <p class="circle"></p>-->
+     <h4 style="padding: 5px;margin-left:-12px;">Customized Corporate</h4>
+<p style="padding-top:0px;margin-left:-37px; text-align: center;" >All the training details can be customized covering the duration, schedule, course material and most importantly an expert trainer</p>
+    </div>
+
+</div>
+    <!-- vertical bar-->
+
+
+    
+    <div class="col-md-4 well">
+       sdygf uifhhf u io
+       hsdgfihuj
+     </div>      
+   </div>
+ </div>
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="js/boo
+tstrap.min.js"></script>
+  </body>
+  
+</html>
